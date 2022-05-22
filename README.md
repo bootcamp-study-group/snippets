@@ -1,10 +1,12 @@
-# snippets
+# snippets 📚
+
 A collection of class-related code &amp; concepts.
 
-- [snippets](#snippets)
+- [snippets 📚](#snippets-)
   - [General](#general)
     - [Array Loop](#array-loop)
     - [Ternary Operator](#ternary-operator)
+    - [Concatenate](#concatenate)
 
 ## General
 
@@ -36,4 +38,23 @@ console.log(message);
 ```
 `#ternary #conditional #javascript`
 
-[Back to top 🔝](#snippets)
+### Concatenate
+
+```javascript
+var java = "java";
+var script = "script";
+
+var javascript = java.concat("", script);
+var blasphemy = script.concat(" with ", java);
+
+console.log(javascript);
+console.log(blasphemy);
+
+// javascript
+// script with java
+```
+`#concat #string #javascript #module3`
+
+---
+
+[Back to top 🔝](#snippets-📚)

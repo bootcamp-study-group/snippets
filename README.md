@@ -35,3 +35,5 @@ console.log(message);
 // 😎
 ```
 `#ternary #conditional #javascript`
+
+[Back to top 🔝](#snippets)

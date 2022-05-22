@@ -57,4 +57,4 @@ console.log(blasphemy);
 
 ---
 
-[Back to top 🔝](#snippets-📚)
+[Back to top 🔝](#snippets-)

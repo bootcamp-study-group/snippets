@@ -34,7 +34,7 @@ var myArray = ["beep", "bop", "boop"];
 
 myArray.forEach((item, index) => {
     console.log(index);
-console.log(item);
+    console.log(item);
 });
 
 // beep

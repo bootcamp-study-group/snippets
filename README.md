@@ -33,13 +33,12 @@ A collection of class-related code &amp; concepts.
 var myArray = ["beep", "bop", "boop"];
 
 myArray.forEach((item, index) => {
-    console.log(index);
-    console.log(item);
+    console.log(index, item);
 });
 
-// beep
-// boop
-// bop
+// 1 beep
+// 2 boop
+// 3 bop
 ```
 `#array #forEach #javascript`
 

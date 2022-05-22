@@ -2,6 +2,23 @@
 
 A collection of class-related code &amp; concepts.
 
+<details><summary><i>Find some useful code while completing a challenge or project?</i></summary> 
+  
+- Fork this repository
+- Add your snippet
+- Tag the classwork (#module3, #challenge4, etc)
+- Create a pull-request!
+  
+</details>
+
+<details><summary><i>Have a question/request?</i></summary>
+  
+- Create an Issue
+- Give details
+- Submit!
+  
+</details>
+
 - [snippets 📚](#snippets-)
   - [General](#general)
     - [Array Loop](#array-loop)
